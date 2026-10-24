@@ -1,6 +1,6 @@
 # 🏔️ EverPeak Analysis
 
-Análisis exploratorio, limpieza y segmentación de datos de ventas del retailer ficticio **EverPeak**, desarrollado en Python como parte del bootcamp de Análisis de Datos de **TripleTen**.
+Análisis exploratorio, limpieza y segmentación de datos de ventas **EverPeak**
 
 ## 📌 Objetivo
 
@@ -14,7 +14,7 @@ Preparar un dataset de pedidos de comercio minorista para que sea confiable y ú
 
 ## 🗂️ Dataset
 
-- **Fuente:** `everpeak_clean.csv` (TripleTen / Practicum)
+- **Fuente:** `everpeak_clean.csv`
 - **Variables principales:**
 
 | Columna | Descripción |
@@ -105,5 +105,4 @@ everpeak-analysis/
 ## 👤 Autor
 
 **Germán Ricardo Villamizar Villamizar**
-Analista de Datos en formación · TripleTen
 GitHub: [@germanricardovilla-collab](https://github.com/germanricardovilla-collab)
