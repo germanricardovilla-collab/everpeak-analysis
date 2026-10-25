@@ -101,6 +101,10 @@ everpeak-analysis/
 ├── everpeak_analysis.ipynb   # Notebook con el análisis completo
 └── README.md                 # Este archivo
 ```
+## ▶️ Como Abrir el Note Book en Google Colab 
+haz clic en el sisgiente enlace 
+
+https://colab.research.google.com/drive/16CfdkubNy0xlFI6wNEl6-Ao4xyJD51HM?usp=sharing
 
 ## 👤 Autor
 
